@@ -1,1 +1,606 @@
-{"work":[{"startDate":"2008-11-01","name":"Technical Project Manager at 15below","endDate":"2009-05-01","description":"<br />Secondment to Melbourne to assist in setting up 15below’s first overseas office to support their Asia Pacific clients.<br />Continued support to the UK office providing solutions to complex technical issues on project work there.<br />Project management and requirements gathering for local projects and Australian hours escalation point for the support team."},{"startDate":"2009-05-01","name":"Analyst Developer at 15below","endDate":"2012-06-01","description":"* Secondment to the support team bringing **technical and process experience** as well as being an **escalation point** when the team leader is unavailable. I have helped automate some support tasks, improving team efficiency and reducing the support overhead. Another enjoyable aspect of my role has been in recruiting placement students and a permanent developer to the support team. Then mentoring them as they begin their careers.\n* I also provided **technical input on existing business functionality** to both the design review committee and production change control board. In these responsibilities I aim to maximize the technical debt that can be repaid in new enhancements and to minimize the risk to production in roll out and project go live. This was where I started loving the process of Product Management.\n\nBoth roles allow me to look beyond an immediate task at hand to the wider business and then how we can increase business value. Highlights include:\n* Co-ordinating with the Client Support Team Leader the **update of the reservation system interface** for a US client when their NewSkies system was upgraded to 3.2.\n* Helping to deliver and co-ordinate the **roll out of an enhanced voice solution**, which supported processing through Sabre Reaccommodation Manager, for another US client."},{"startDate":"1998-06-01","name":"Student Trainee at Atkins","endDate":"2000-09-01","description":"**Help Desk Agent/Service Support**\n* As Help Desk Agent my duties included; first line support, configuring and installing new PCs, logging calls and preparing templates for company standard correspondence such as faxes, memos and minutes. Also developing a website for the department's asset management. As part of the Service Support team I was involved in a project that identified any Y2K related problems and prepared the companies financial systems for a successful rollover from 1999 to 2000.\n\n**Developer**\n* Responsibility for planning, implementing and improving various small projects involving an online collaborative system, which included giving a presentation to the client's project managers.\n"},{"startDate":"2000-10-01","name":"Lab Assistant (Technician Grade C) at University of Sussex","endDate":null,"description":"Duties included helping new students familiarise themselves with the Unix terminals and system demonstrations."},{"startDate":"1995-08-01","name":"Technical Support at Network Si Ltd","endDate":null,"description":"On site at Mitsubishi Finance, Broadgate, London.\n\nDuties included creating Microsoft Excel 5 spreadsheets with VBA code for data entry and asset management."},{"startDate":"2005-03-01","name":"Analyst Developer at 15below","endDate":"2008-11-01","description":"* Development of [market leading notification solutions for the travel industry](https://www.youtube.com/watch?v=T0x7xUrLWy8).\n* Porting a core component from **VB6 to VB.NET** including some key enhancements to dynamic content functionality.\n* **Deliverability Consultancy** - using a variety of content, software, white list and DNS methods to improve the rate of emails to reach the inbox.\n* **Technical leadership** on  the design and implementation of solutions for new clients.\n* **Technical leadership and project management** during the implementation and rollout of functionality, e.g. to **increase automation** allowing the reduction of call centre staff and reduction of costs or to increase of revenue via targeted cross selling."},{"startDate":null,"name":"Consultant at Atkins Management Consultants","endDate":null,"description":"* Development of extranets and online collaborative systems to create workflow systems in Business Process Optimisation \n* Research into group awareness in collaborative virtual environments as part of the **Atkins Research and Innovation department**, including EU funded research. For example IST programme *IST-10846 TOWER: Theatre of Work Enabling Relationships*.\n* Part of a team that developed central bespoke portals for the management of programmes of works for both **Shell Oil** and the **Royal Bank of Scotland**. I was specifically responsible for developing a transport ordering B2B solution between a local County Council and Atkins, a system to manage requests to the Atkins Pensions department, and a supplier rating system for Bass Hotels. Other clients included Office of the Rail Regulator, Railtrack, Public Record Office, and the Environment Agency.\n\nPublications:\n**Chalk, N** (2005) “Mining project information using storytelling” in *Proceedings of the 23rd IASTED International Conference on Databases and Applications, Innsbruck, Austria. February 14-16, 2005.* "},{"startDate":"2012-06-01","name":"Configuration Consultant at 15below","endDate":"2013-03-01","description":"Reporting to the Production Services Manager:\n* Plan and **manage client system upgrades**, including analysis and QA.\n* Establish, evolve and document formal upgrade and deployment processes.\n* Act as a **technical consultant to 15below**, supporting all areas of the business.\n* Build and maintain a catalogue of services and configuration information related to those services (Configuration Management Database).\n* Building **knowledge of product and configuration** to assist with establishing baselines and feeding into customer's SLAs and KPIs\n* Act as part of Change Advisory Board.\n* Own Technical Debt Register.\n* Feed customer specific scenarios into QA processes / automated testing"},{"startDate":"2013-04-01","name":"Product Manager at 15below","endDate":null,"description":"* Founder member of Product team at 15below and **creating product processes**\n* Managing the product development budget\n* Report on the Product related objectives in the 15below Business Plan.\n* Working to understand the **business requirements for product specifications** and converting these into use cases.\n* Acts as Product Owner in an agile development team when needed.\n* Providing the Marketing team with the background for case studies, product documentation and [promotional material](https://www.youtube.com/watch?v=T0x7xUrLWy8).\n* Supporting internal processes such as Change Advisory Board, Design Review Committee and Project Standards to ensure that *the &#34;right thing&#34; gets developed &#34;the right way&#34;*.\n* Providing **internal technical consultancy** and business analysis of **airline workflows and reservation system interactions**.\n\nBlog posts for 15below during this time:\n* [Introducing our new user interface: Optimising your notification testing process](https://15below.com/news/view/introducing-our-new-user-interface-optimising-your-notification-testing-pro)\n* [Guest Post: Designing a UI with travel disruption in mind](https://15below.com/news/view/guest-post-designing-a-ui-with-travel-disruption-in-mind)\n* [Guest Blog: Creating operational efficiency with a powerful user interface](https://15below.com/news/view/guest-blog-creating-operational-efficiency-with-a-powerful-user-interface)"}],"basics":{"profiles":[{"username":"http://neilch.blogspot.co.uk","url":"http://neilch.blogspot.co.uk","network":"Blog"},{"username":"neilchalk","url":"https://www.flickr.com/photos/neilchalk","network":"Flickr"},{"username":"@_neilch","url":"https://medium.com/@_neilch","network":"Medium"},{"username":"+NeilChalk","url":"https://plus.google.com/+NeilChalk","network":"GooglePlus"},{"username":"nm3980851","url":"https://www.imdb.com/name/nm3980851","network":"IMDB"},{"username":"neilchalk","url":"https://www.linkedin.com/in/neilchalk","network":"LinkedIn"},{"username":"neilchalk","url":"https://www.github.com/neilchalk","network":"GitHub"},{"username":"_neilch","url":"https://www.twitter.com/_neilch","network":"Twitter"}],"name":"Neil Chalk","email":"neil.chalk@gmail.com"}}
+{
+   "work": [
+      {
+         "summary": "* Founder member of Product team at 15below and **creating product processes**\n* Managing the product development budget\n* Report on the Product related objectives in the 15below Business Plan.\n* Working to understand the **business requirements for product specifications** and converting these into use cases.\n* Acts as Product Owner in an agile development team when needed.\n* Providing the Marketing team with the background for case studies, product documentation and [promotional material](https://www.youtube.com/watch?v=T0x7xUrLWy8).\n* Supporting internal processes such as Change Advisory Board, Design Review Committee and Project Standards to ensure that *the &#34;right thing&#34; gets developed &#34;the right way&#34;*.\n* Providing **internal technical consultancy** and business analysis of **airline workflows and reservation system interactions**.\n\nBlog posts for 15below during this time:\n* [Introducing our new user interface: Optimising your notification testing process](https://15below.com/news/view/introducing-our-new-user-interface-optimising-your-notification-testing-pro)\n* [Guest Post: Designing a UI with travel disruption in mind](https://15below.com/news/view/guest-post-designing-a-ui-with-travel-disruption-in-mind)\n* [Guest Blog: Creating operational efficiency with a powerful user interface](https://15below.com/news/view/guest-blog-creating-operational-efficiency-with-a-powerful-user-interface)",
+         "startDate": "2013-04-01",
+         "position": "Product Manager at 15below",
+         "highlights": [
+            "Product Management",
+            "Product Development",
+            "Roadmaps",
+            "Mentoring",
+            "R",
+            "Analytics",
+            "User Journeys",
+            "Agile"
+         ],
+         "endDate": null,
+         "company": null
+      },
+      {
+         "summary": "Reporting to the Production Services Manager:\n* Plan and **manage client system upgrades**, including analysis and QA.\n* Establish, evolve and document formal upgrade and deployment processes.\n* Act as a **technical consultant to 15below**, supporting all areas of the business.\n* Build and maintain a catalogue of services and configuration information related to those services (Configuration Management Database).\n* Building **knowledge of product and configuration** to assist with establishing baselines and feeding into customer's SLAs and KPIs\n* Act as part of Change Advisory Board.\n* Own Technical Debt Register.\n* Feed customer specific scenarios into QA processes / automated testing",
+         "startDate": "2012-06-01",
+         "position": "Configuration Consultant at 15below",
+         "highlights": [
+            "Agile",
+            "SQL",
+            "Product Ownership",
+            "Line Management",
+            "Requirements Gathering",
+            "Product Development"
+         ],
+         "endDate": "2013-03-01",
+         "company": null
+      },
+      {
+         "summary": "* Secondment to the support team bringing **technical and process experience** as well as being an **escalation point** when the team leader is unavailable. I have helped automate some support tasks, improving team efficiency and reducing the support overhead. Another enjoyable aspect of my role has been in recruiting placement students and a permanent developer to the support team. Then mentoring them as they begin their careers.\n* I also provided **technical input on existing business functionality** to both the design review committee and production change control board. In these responsibilities I aim to maximize the technical debt that can be repaid in new enhancements and to minimize the risk to production in roll out and project go live. This was where I started loving the process of Product Management.\n\nBoth roles allow me to look beyond an immediate task at hand to the wider business and then how we can increase business value. Highlights include:\n* Co-ordinating with the Client Support Team Leader the **update of the reservation system interface** for a US client when their NewSkies system was upgraded to 3.2.\n* Helping to deliver and co-ordinate the **roll out of an enhanced voice solution**, which supported processing through Sabre Reaccommodation Manager, for another US client.",
+         "startDate": "2009-05-01",
+         "position": "Analyst Developer at 15below",
+         "highlights": [
+            "SQL",
+            "ASP",
+            "Requirements Gathering",
+            "SourceSafe",
+            "Visual Basic",
+            "Mentoring"
+         ],
+         "endDate": "2012-06-01",
+         "company": null
+      },
+      {
+         "summary": "<br />Secondment to Melbourne to assist in setting up 15below’s first overseas office to support their Asia Pacific clients.<br />Continued support to the UK office providing solutions to complex technical issues on project work there.<br />Project management and requirements gathering for local projects and Australian hours escalation point for the support team.",
+         "startDate": "2008-11-01",
+         "position": "Technical Project Manager at 15below",
+         "highlights": [
+            "Requirements Gathering",
+            "PRINCE2",
+            "Product Development"
+         ],
+         "endDate": "2009-05-01",
+         "company": null
+      },
+      {
+         "summary": "* Development of [market leading notification solutions for the travel industry](https://www.youtube.com/watch?v=T0x7xUrLWy8).\n* Porting a core component from **VB6 to VB.NET** including some key enhancements to dynamic content functionality.\n* **Deliverability Consultancy** - using a variety of content, software, white list and DNS methods to improve the rate of emails to reach the inbox.\n* **Technical leadership** on  the design and implementation of solutions for new clients.\n* **Technical leadership and project management** during the implementation and rollout of functionality, e.g. to **increase automation** allowing the reduction of call centre staff and reduction of costs or to increase of revenue via targeted cross selling.",
+         "startDate": "2005-03-01",
+         "position": "Analyst Developer at 15below",
+         "highlights": [
+            "Visual Basic",
+            "Requirements Gathering",
+            "PRINCE2",
+            "Product Development",
+            "Solution design",
+            "SQL",
+            "SourceSafe"
+         ],
+         "endDate": "2008-11-01",
+         "company": null
+      },
+      {
+         "summary": "* Development of extranets and online collaborative systems to create workflow systems in Business Process Optimisation \n* Research into group awareness in collaborative virtual environments as part of the **Atkins Research and Innovation department**, including EU funded research. For example IST programme *IST-10846 TOWER: Theatre of Work Enabling Relationships*.\n* Part of a team that developed central bespoke portals for the management of programmes of works for both **Shell Oil** and the **Royal Bank of Scotland**. I was specifically responsible for developing a transport ordering B2B solution between a local County Council and Atkins, a system to manage requests to the Atkins Pensions department, and a supplier rating system for Bass Hotels. Other clients included Office of the Rail Regulator, Railtrack, Public Record Office, and the Environment Agency.\n\nPublications:\n**Chalk, N** (2005) “Mining project information using storytelling” in *Proceedings of the 23rd IASTED International Conference on Databases and Applications, Innsbruck, Austria. February 14-16, 2005.* ",
+         "startDate": "2001-01-01",
+         "position": "Consultant at Atkins Management Consultants",
+         "highlights": [
+            "Python",
+            "Perl",
+            "SQL",
+            "Consulting",
+            "PRINCE2",
+            "BPO",
+            "Unix",
+            "SourceSafe",
+            "Visual Basic",
+            "Requirements Gathering"
+         ],
+         "endDate": "2005-01-01",
+         "company": null
+      },
+      {
+         "summary": "Duties included helping new students familiarise themselves with the Unix terminals and system demonstrations.",
+         "startDate": "2000-10-01",
+         "position": "Lab Assistant (Technician Grade C) at University of Sussex",
+         "highlights": [
+            "Unix"
+         ],
+         "endDate": "2000-01-01",
+         "company": null
+      },
+      {
+         "summary": "**Help Desk Agent/Service Support**\n* As Help Desk Agent my duties included; first line support, configuring and installing new PCs, logging calls and preparing templates for company standard correspondence such as faxes, memos and minutes. Also developing a website for the department's asset management. As part of the Service Support team I was involved in a project that identified any Y2K related problems and prepared the companies financial systems for a successful rollover from 1999 to 2000.\n\n**Developer**\n* Responsibility for planning, implementing and improving various small projects involving an online collaborative system, which included giving a presentation to the client's project managers.\n",
+         "startDate": "1998-06-01",
+         "position": "Student Trainee at Atkins",
+         "highlights": [
+            "ASP",
+            "Visual Basic",
+            "SQL",
+            "SourceSafe"
+         ],
+         "endDate": "2000-09-01",
+         "company": null
+      },
+      {
+         "summary": "On site at Mitsubishi Finance, Broadgate, London.\n\nDuties included creating Microsoft Excel 5 spreadsheets with VBA code for data entry and asset management.",
+         "startDate": "1995-08-01",
+         "position": "Technical Support at Network Si Ltd",
+         "highlights": [
+            "Excel",
+            "VBA"
+         ],
+         "endDate": "1995-01-01",
+         "company": null
+      }
+   ],
+   "skills": [
+      {
+         "name": "AI"
+      },
+      {
+         "name": "ASP"
+      },
+      {
+         "name": "Agile"
+      },
+      {
+         "name": "Analytics"
+      },
+      {
+         "name": "BPO"
+      },
+      {
+         "name": "Blockchain"
+      },
+      {
+         "name": "Business"
+      },
+      {
+         "name": "C"
+      },
+      {
+         "name": "CSS"
+      },
+      {
+         "name": "Cinematography"
+      },
+      {
+         "name": "Consulting"
+      },
+      {
+         "name": "DB2"
+      },
+      {
+         "name": "DLT"
+      },
+      {
+         "name": "Deliberate practice"
+      },
+      {
+         "name": "Distributed Ledger Technology"
+      },
+      {
+         "name": "Economics"
+      },
+      {
+         "name": "Elixir"
+      },
+      {
+         "name": "Ethics"
+      },
+      {
+         "name": "Excel"
+      },
+      {
+         "name": "Film Editing"
+      },
+      {
+         "name": "Financial Accounting"
+      },
+      {
+         "name": "Genetic Algorithm"
+      },
+      {
+         "name": "HTML"
+      },
+      {
+         "name": "Hyperledger"
+      },
+      {
+         "name": "Impact Mapping"
+      },
+      {
+         "name": "Innovation"
+      },
+      {
+         "name": "Java"
+      },
+      {
+         "name": "Law"
+      },
+      {
+         "name": "Ledger"
+      },
+      {
+         "name": "Line Management"
+      },
+      {
+         "name": "Machine Learning"
+      },
+      {
+         "name": "Matlab"
+      },
+      {
+         "name": "Mentoring"
+      },
+      {
+         "name": "Motivation"
+      },
+      {
+         "name": "Natural Language Processing"
+      },
+      {
+         "name": "Neural Networks"
+      },
+      {
+         "name": "OODA"
+      },
+      {
+         "name": "Open Source"
+      },
+      {
+         "name": "PRINCE2"
+      },
+      {
+         "name": "Perl"
+      },
+      {
+         "name": "Product Development"
+      },
+      {
+         "name": "Product Management"
+      },
+      {
+         "name": "Product Ownership"
+      },
+      {
+         "name": "Prolog"
+      },
+      {
+         "name": "Python"
+      },
+      {
+         "name": "R"
+      },
+      {
+         "name": "RMarkdown"
+      },
+      {
+         "name": "Requirements Gathering"
+      },
+      {
+         "name": "Roadmaps"
+      },
+      {
+         "name": "SQL"
+      },
+      {
+         "name": "Smalltalk"
+      },
+      {
+         "name": "Solution design"
+      },
+      {
+         "name": "SourceSafe"
+      },
+      {
+         "name": "Strategy"
+      },
+      {
+         "name": "Subversion"
+      },
+      {
+         "name": "Unix"
+      },
+      {
+         "name": "User Journeys"
+      },
+      {
+         "name": "VBA"
+      },
+      {
+         "name": "Visual Basic"
+      },
+      {
+         "name": "Volere requirements"
+      },
+      {
+         "name": "Writing"
+      }
+   ],
+   "projects": [
+      {
+         "url": "https://github.com/neilchalk/r-for-prodmgmt",
+         "summary": "As the name suggests, this project is for Product Managers dealing with data that want to use R as a tool to analyse that data and produce reports/visualisations. I have tried to make all the scripts work from first download. I have built reports that display data from:\n* Google Analytics of website traffic\n* Application metrics stored in InfluxDB to show feature usage\n* ProdPad workflow status reporting and mining for insights in feedback received\n* Report based on data exported from UptimeRobot to analyse downtime reasons",
+         "startDate": null,
+         "name": "r-for-prodmgmt",
+         "keywords": [
+            "Open Source",
+            "RMarkdown",
+            "R"
+         ],
+         "endDate": null
+      },
+      {
+         "url": "https://github.com/neilchalk/Text-Mining",
+         "summary": "After finding lots of incomplete intros into doing interesting analysis of data from Twitter, I have forked and extended one of them to show how topic modelling can be done easily in R",
+         "startDate": null,
+         "name": "Text-Mining",
+         "keywords": [
+            "R"
+         ],
+         "endDate": null
+      },
+      {
+         "url": "https://github.com/neilchalk/open-product-management",
+         "summary": "Training, conferences and books aren't the only way of sharing information and improving your craft. This repository contains many useful links for Product Managers old and new.",
+         "startDate": null,
+         "name": "open-product-management",
+         "keywords": [
+            "Product Management"
+         ],
+         "endDate": null
+      },
+      {
+         "url": null,
+         "summary": "Product Lead, Elixir, Heroku, Gitlab CI · Market research, product fit, UX design, HTML, copywriting\n\nProject to help students and recent graduates create awesome online profiles. Bashfully will shake up the traditional online resume.\n\n[Connect with me on AngelList](https://angel.co/neil-chalk) to collaborate on side projects.",
+         "startDate": "2016-11-01",
+         "name": "Side project: Bashfully",
+         "keywords": [
+            "Elixir",
+            "Product Development",
+            "HTML",
+            "CSS",
+            "Product Management"
+         ],
+         "endDate": null
+      },
+      {
+         "url": null,
+         "summary": "Book version of [my blog](http://neilch.blogspot.co.uk?bashfully) with extra content, updates based on more recent experience, and professional editing. This is focused around my journey becoming a technical product manager with anecdotes and tips to help others - especially developers! - on the same journey. ",
+         "startDate": "2017-07-01",
+         "name": "Side project: Untitled product management book",
+         "keywords": [
+            "Writing",
+            "Product Management",
+            "Product Development"
+         ],
+         "endDate": null
+      },
+      {
+         "url": null,
+         "summary": "As p art of a team of four took on the Gurkhas in the Trailwalker. The Trailwalker is an unforgettable endurance challenge to get your team of four 100km across the South Downs in under 30 hours. Is it tough? Of course. Is it worth it? Absolutely.\n\nWe raised over £1,500 for charities in Nepal.",
+         "startDate": "2015-07-01",
+         "name": "Trailwalker",
+         "keywords": [],
+         "endDate": "2015-07-01"
+      },
+      {
+         "url": null,
+         "summary": "Not only the first Brighton Marathon but also my first marathon. This was really the start of my love of running. Learned a lot about arbitrary goals, motivation, and managing performance. In 2017 I did my second and, building on experience since the first one, learned about linking arbitrary goals to deliberate training and practice. A skill that I have also applied to my work life - and inspired [this blog post](http://neilch.blogspot.co.uk/2016/08/on-performance-and-environment.html). \n\nI raised over £250 for Cancer research. ",
+         "startDate": "2010-04-01",
+         "name": " Brighton Marathon 2010",
+         "keywords": [
+            "Deliberate practice",
+            "Motivation"
+         ],
+         "endDate": null
+      },
+      {
+         "url": null,
+         "summary": "A side project that allowed me to practice my skills using Perl and Subversion. CosMoS was a simple content management system that had a user permission model, image gallery, and HMTL content that could be moved around in the site hierarchy. ",
+         "startDate": "2003-03-01",
+         "name": "CosMoS (a self-hosted CMS)",
+         "keywords": [
+            "Subversion",
+            "Perl",
+            "HTML"
+         ],
+         "endDate": "2005-08-01"
+      }
+   ],
+   "education": [
+      {
+         "summary": "Building on my existing PGCert in Technology Management, starting with the module [T849 - Strategic capabilities for technological innovation](http://www.open.ac.uk/postgraduate/modules/t849)",
+         "startDate": "2018-05-01",
+         "institution": null,
+         "endDate": "2019-11-01",
+         "courses": [
+            "Innovation",
+            "Strategy"
+         ],
+         "area": "MSc of Technology Management at Open University"
+      },
+      {
+         "summary": "Wanting to cut through the hype about blockchain and learn how it can be applied beyond cryptocurrencies I took a couple of hands-on IBM courses. [IBM Blockchain Essentials](https://www.youracclaim.com/badges/de84a2ec-8109-476c-a4f3-16287aeb3c15/public_url)\n\nI have also applied this to my day job, with a guest post on the [15below Tech Take](https://15below.com/news/view/15below-tech-take-blockchain) blog taking a look at how the Travel Industry could benefit from this technology.",
+         "startDate": "2018-01-01",
+         "institution": null,
+         "endDate": null,
+         "courses": [
+            "Distributed Ledger Technology",
+            "Hyperledger",
+            "Ledger",
+            "Open Source",
+            "Blockchain",
+            "DLT"
+         ],
+         "area": "Blockchain at IBM developerWorks"
+      },
+      {
+         "summary": "A track of courses that combines statistical and machine learning techniques with R programming to analyze and interpret complex data.I have taken this to help my project \"[R for Product Management](https://github.com/neilchalk/r-for-prodmgmt)\" and enhance my skills as a data guided Product Manager.\n\n[View profile and progress](https://www.datacamp.com/profile/neilchalk)",
+         "startDate": "2017-10-01",
+         "institution": null,
+         "endDate": null,
+         "courses": [
+            "RMarkdown",
+            "R"
+         ],
+         "area": "Data Scientist with R on Datacamp"
+      },
+      {
+         "summary": "What I learned:\n* Foundational abilities in applying ethical and legal frameworks for the data profession\n* Practical approaches to data and analytics problems, including Big Data and Data Science and AI\n* Applied data methods for ethical and legal work in Analytics and AI\n\n[View certificate](https://courses.edx.org/certificates/ea1e7756410144afa9c4d3441ff92731)",
+         "startDate": "2017-10-01",
+         "institution": null,
+         "endDate": "2017-09-01",
+         "courses": [
+            "Analytics",
+            "Law",
+            "AI",
+            "Ethics"
+         ],
+         "area": "Microsoft: DAT249x Ethics and Law in Analytics and AI on edX"
+      },
+      {
+         "summary": "HBX CORe (Credential of Readiness) is a 120-150 hour certificate program on the fundamentals of business from Harvard Business School. CORe is comprised of three courses - Business Analytics, Economics for Managers, and Financial Accounting – developed by leading Harvard Business School faculty and delivered in an active learning environment based on the HBS signature case-based learning model.\n\nRead more on [my HBX blog post](http://neilch.blogspot.com/2016/04/on-hbx-and-online-education.html)",
+         "startDate": "2016-01-01",
+         "institution": null,
+         "endDate": "2016-09-01",
+         "courses": [
+            "Business",
+            "Analytics",
+            "Economics",
+            "Financial Accounting"
+         ],
+         "area": "CORe: Credential of Readiness at HBX / Harvard Business School"
+      },
+      {
+         "summary": "An overview course on using impact mapping to drive changes in behaviour that have business benefit, run by Gojko Adzic and Dave Evans.\n\n[My main takeaways](http://neilch.blogspot.co.uk/2013/05/on-impact-and-behaviour.html)",
+         "startDate": "2013-05-01",
+         "institution": "London, UK",
+         "endDate": "2013-05-01",
+         "courses": [
+            "Product Development",
+            "Product Ownership",
+            "Impact Mapping"
+         ],
+         "area": "Product Owner Survival Camp"
+      },
+      {
+         "summary": "A film course that covered screen writing, editing, shooting with 8mm, 16mm, and 35mm film as well as HD digital. \n\n[IMDB profile](http://www.imdb.com/name/nm3980851/)",
+         "startDate": "2009-09-01",
+         "institution": null,
+         "endDate": "2010-06-01",
+         "courses": [
+            "Film Editing",
+            "Cinematography"
+         ],
+         "area": "ABFS, Diploma Course in Motion Picture Production at Brighton Film School"
+      },
+      {
+         "summary": "Three courses that gave me a solid foundation into the business side of managing software development processes.\n\n* M882 Managing the software enterprise (2008)\n* T848 Managing technological innovation (2013)\n* M883 Software requirements for business systems (2014)",
+         "startDate": "2008-04-01",
+         "institution": null,
+         "endDate": "2014-09-01",
+         "courses": [
+            "Roadmaps",
+            "Innovation",
+            "Volere requirements"
+         ],
+         "area": "Postgraduate Certificate in Technology Management at The Open University"
+      },
+      {
+         "summary": "Postgraduate courses in Computing and ICT, 2001 - 2004\n\nPostgraduate Modules passed:\n* M877 Advanced database technology (2004)\n* M878 Object-oriented software development (2002)\n* M879 Distributed applications and ecommerce (2001)",
+         "startDate": "2001-09-01",
+         "institution": null,
+         "endDate": "2004-09-01",
+         "courses": [
+            "OODA",
+            "Smalltalk",
+            "Java",
+            "SQL",
+            "DB2"
+         ],
+         "area": "Postgraduate courses in Computing and ICT at Open University"
+      },
+      {
+         "summary": "An interdisciplinary course covering Computer Science, Linguistics, Philosophy and Psychology courses.\n\n3rd year project: \"*SCARGIL: Data Mining using the Genetic Methods*\" produced a system that took a dataset and after a period of induction using evolutionary computing output classification rules. The program was given a dataset of DNA, which it then used to produce a model, to make protein splice site predictions. This project allowed me to develop my skills in cutting through domain knowledge, where I was not a domain expert, and solve the key problem presented.",
+         "startDate": "1997-09-01",
+         "institution": "Brighton, UK",
+         "endDate": "2001-06-01",
+         "courses": [
+            "AI",
+            "SQL",
+            "Prolog",
+            "Unix",
+            "Visual Basic",
+            "Java",
+            "Perl",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Matlab",
+            "Genetic Algorithm",
+            "C",
+            "Neural Networks"
+         ],
+         "area": "BA (Hons.), Artificial Intelligence at University of Sussex"
+      },
+      {
+         "summary": "* City and Guilds Information Technology 7261/01 205 Visual Basic 1\n* A-levels in Physics, Mathematics, and Chemistry",
+         "startDate": "1995-10-01",
+         "institution": null,
+         "endDate": "1997-06-01",
+         "courses": [
+            "Visual Basic"
+         ],
+         "area": "Yorkshire Coast College"
+      }
+   ],
+   "basics": {
+      "summary": "I want to help People to Live better lives with products that have a positive influence.",
+      "profiles": [
+         {
+            "username": "neilch",
+            "url": null,
+            "network": "Bashful.ly"
+         },
+         {
+            "username": "http://neilch.blogspot.co.uk",
+            "url": "http://neilch.blogspot.co.uk",
+            "network": "Blog"
+         },
+         {
+            "username": "neilchalk",
+            "url": "https://www.flickr.com/photos/neilchalk",
+            "network": "Flickr"
+         },
+         {
+            "username": "@_neilch",
+            "url": "https://medium.com/@_neilch",
+            "network": "Medium"
+         },
+         {
+            "username": "+NeilChalk",
+            "url": "https://plus.google.com/+NeilChalk",
+            "network": "GooglePlus"
+         },
+         {
+            "username": "nm3980851",
+            "url": "https://www.imdb.com/name/nm3980851",
+            "network": "IMDB"
+         },
+         {
+            "username": "neilchalk",
+            "url": "https://www.linkedin.com/in/neilchalk",
+            "network": "LinkedIn"
+         },
+         {
+            "username": "neilchalk",
+            "url": "https://www.github.com/neilchalk",
+            "network": "GitHub"
+         },
+         {
+            "username": "_neilch",
+            "url": "https://www.twitter.com/_neilch",
+            "network": "Twitter"
+         }
+      ],
+      "name": "Neil Chalk",
+      "email": ""
+   }
+}
